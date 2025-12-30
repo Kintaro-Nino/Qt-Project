@@ -1,0 +1,12 @@
+debug/addproducts.o
+debug/deliverproduct.o
+debug/main.o
+debug/mainwindow.o
+debug/summaryproducts.o
+debug/warehouseproduct.o
+debug/qrc_res.o
+debug/moc_addproducts.o
+debug/moc_deliverproduct.o
+debug/moc_mainwindow.o
+debug/moc_summaryproducts.o
+debug/moc_warehouseproduct.o

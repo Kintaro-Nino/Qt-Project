@@ -1,0 +1,12 @@
+release/addproducts.o
+release/deliverproduct.o
+release/main.o
+release/mainwindow.o
+release/summaryproducts.o
+release/warehouseproduct.o
+release/qrc_res.o
+release/moc_addproducts.o
+release/moc_deliverproduct.o
+release/moc_mainwindow.o
+release/moc_summaryproducts.o
+release/moc_warehouseproduct.o
