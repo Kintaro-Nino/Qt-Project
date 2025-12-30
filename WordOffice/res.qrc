@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/wordpicture">
+        <file>pictures/bold.png</file>
+        <file>pictures/centeralign.png</file>
+        <file>pictures/color.png</file>
+        <file>pictures/copy.png</file>
+        <file>pictures/icon.png</file>
+        <file>pictures/italic.png</file>
+        <file>pictures/leftalign.png</file>
+        <file>pictures/new.png</file>
+        <file>pictures/open.png</file>
+        <file>pictures/paste.png</file>
+        <file>pictures/printer.png</file>
+        <file>pictures/redo.png</file>
+        <file>pictures/rightalign.png</file>
+        <file>pictures/save.png</file>
+        <file>pictures/twosectionalign.png</file>
+        <file>pictures/underline.png</file>
+        <file>pictures/undo.png</file>
+        <file>pictures/cut.png</file>
+    </qresource>
+</RCC>
